@@ -1,0 +1,11 @@
+Patient_ID,Age,Department,Day,Status,Waiting_Time
+101,25,Cardiology,Monday,Completed,15
+102,40,Neurology,Tuesday,No-show,0
+103,35,Orthopedics,Monday,Completed,25
+104,60,Cardiology,Wednesday,Cancelled,0
+105,22,Dermatology,Friday,Completed,20
+106,50,Neurology,Tuesday,Completed,30
+107,30,Orthopedics,Monday,No-show,0
+108,65,Cardiology,Thursday,Completed,40
+109,45,Dermatology,Friday,Cancelled,0
+110,28,Neurology,Wednesday,Completed,10
